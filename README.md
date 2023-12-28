@@ -1,5 +1,5 @@
 # Customkali_Automated
-Script para customizar kali linux, y la terminal como un verdadero hacker  
+Script para customizar kali linux, y la terminal con Kitty, zsh y ohmyzsh
 ## Descripción del mod
 Este script realiza las siguientes modificaciones  
 
