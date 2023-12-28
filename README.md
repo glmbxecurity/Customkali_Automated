@@ -9,7 +9,7 @@ cd /home/kali/Desktop/personalizacion
 chmod +x install_parte1.sh install_parte2.sh
 ```
 
-Ahora es tan sencillo como ejecutar el primer script ==install_parte1.sh== e introducir la clave de administrador cuando sea necesario.  
-Ahora ejecutamnos ==install_parte2.sh==, e introducir la clave de administrador cuando sea necesario.  
-Una vez ejecutados ambos scripts, solo nos queda poner la terminal kitty como predeterminada. Para ello, nos vamos a Settings Manager > Default Applications, y cambiamos el terminal que viene por defecto, por el terminal kitty.
+Ahora es tan sencillo como ejecutar el primer script ```install_parte1.sh``` e introducir la clave de administrador cuando sea necesario.  
+Ahora ejecutamnos ```install_parte2.sh```, e introducir la clave de administrador cuando sea necesario.  
+Una vez ejecutados ambos scripts, solo nos queda poner la terminal kitty como predeterminada. Para ello, nos vamos a ```Settings Manager > Default Applications```, y cambiamos el terminal que viene por defecto, por el terminal kitty.
 
