@@ -15,14 +15,14 @@ Este script realiza las siguientes modificaciones
 - agrega alias para cat (batcat) y ls (colorls)  
 
 ## Previsualización
-Wallpaper
-![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/d8c164d8-e2f9-4b03-89d7-2df4e9affc0f)
-Prompt
-![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/955eba4f-13d9-47cc-b3e1-b48f0738618c)
-Cat
-![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/f160303f-1625-475f-9686-1056eaf9162f)
-Ls
-![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/27926f4a-a1fa-4d21-a8dc-0e57fea36dca)
+#### Wallpaper  
+![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/d8c164d8-e2f9-4b03-89d7-2df4e9affc0f)  
+#### Prompt  
+![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/955eba4f-13d9-47cc-b3e1-b48f0738618c)  
+#### Cat  
+![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/f160303f-1625-475f-9686-1056eaf9162f)  
+#### Ls  
+![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/27926f4a-a1fa-4d21-a8dc-0e57fea36dca)  
 
 
 
