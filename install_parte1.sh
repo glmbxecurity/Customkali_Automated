@@ -8,7 +8,7 @@ echo "- Apt update"
 echo "- Descargar el wallpaper"
 echo "- Instalar terminal Kitty"
 echo "- Cambiar bash por zsh"
-echo "- Instalar npm, font awesome, colorls, batcat"
+echo "- Instalar hacknerdfont, colorls, batcat"
 echo "- Instalar Oh-My-Zsh"
 echo ""
 echo "========================================================================"
@@ -33,6 +33,7 @@ echo "Wallpaper correctamente descargado en /home/kali/Pictures"
 echo "Se procederá a instalar kitty, Enter para continuar"
 read A
 sudo apt install kitty -y 
+sudo cp kitty.conf /home/kali/.config/kitty
 
 
 
@@ -54,10 +55,9 @@ read A
 
 # npm, font awesome, colorls y batcat
 clear
-echo "Se va a instalar del tiron npm, fontawesome, colorls y batcat, por favor sea paciente..."
+echo "Se va a instalar hacknerdfont, colorls y batcat, por favor sea paciente..."
 sleep 3
-sudo apt install npm -y
-npm install --save @fortawesome/fontawesome-free
+sudo cp hacknerdfont.ttf /usr/share/fonts
 sudo gem install colorls
 sudo apt install bat -y
 
