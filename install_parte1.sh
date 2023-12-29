@@ -33,7 +33,7 @@ echo "Wallpaper correctamente descargado en /home/kali/Pictures"
 echo "Se procederá a instalar kitty, Enter para continuar"
 read A
 sudo apt install kitty -y 
-sudo cp kitty.conf /home/kali/.config/kitty
+sudo cp kitty.conf /home/kali/.config/kitty/kitty.conf
 
 
 
