@@ -40,9 +40,10 @@ Una vez ejecutados ambos scripts, solo nos queda
 * Ir a ```Appearance``` y cambiar las 2 fuentes que aparecen, por la de hacknerdfont (sino no aparecerá el icono de kali en el terminal)
 
   
-## Extra
-Para personalizar los colores de la terminal, se pueden editar los ficheros /home/kali/.config/kitty/kitty.conf  
-Para personalizar los colores del prompt, se puede editar el fichero /home/kali/.p10k.zsh
+## Extra  
+Si quieres cambiar alguna configuración:  
+* Para personalizar los colores de la terminal, se pueden editar los ficheros /home/kali/.config/kitty/kitty.conf  
+* Para personalizar los colores del prompt, se puede editar el fichero /home/kali/.p10k.zsh
 ```
 En p10k.zsh los parametros son los siguientes:
 
@@ -56,7 +57,7 @@ En p10k.zsh los parametros son los siguientes:
 ```
 
 #### Recursos
-[iconos](https://www.nerdfonts.com/cheat-sheet)
+[Descargar iconos aquí](https://www.nerdfonts.com/cheat-sheet)  
 **Sacar paleta de colores de powerlevel10k** ``` for i in {0..255}; do print -Pn “%K{$i} %k%F{$i}${(l:3::0:)i}%f “ ${${(M)$((i%6)):#3}:+$’\n’}; done ```
 
 
