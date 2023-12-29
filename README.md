@@ -27,7 +27,7 @@ Este script realiza las siguientes modificaciones
 
 
 ## Instalación
-Clonar el repositorio en el escritorio con el siguiente comando, entrar en el directorio y dar permisos de ejecución a ambos scripts
+Con el siguiente comando, se clona el repositorio, te diriges a la carpeta personalizacion y le das permisos de ejecución a ambos scripts
 ```
 git clone --depth=1 https://github.com/glmbxecurity/Customkali_Automated.git /home/kali/Desktop/personalizacion && cd /home/kali/Desktop/personalizacion && chmod +x install_parte1.sh install_parte2.sh
 ```
