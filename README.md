@@ -18,11 +18,11 @@ Este script realiza las siguientes modificaciones
 #### Wallpaper  
 ![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/d8c164d8-e2f9-4b03-89d7-2df4e9affc0f)  
 #### Prompt  
+![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/a7b96b7a-b2e4-4c68-a81f-21ac31049e21)
 
-#### Cat  
+#### Cat y ls 
+ ![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/e43bf6bf-5cca-4971-bc89-47ebd4a4c58c)
 
-#### Ls  
- 
 
 
 
