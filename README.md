@@ -7,7 +7,7 @@ Este script realiza las siguientes modificaciones
 - instala terminal Kitty
 - instala ohmyzsh
 - instala powerlevel10k (tema para ohmyzsh)
-- instala npm y font-awesome (requisito para powerlevel10k)
+- instala hacknerdfont (requisito para powerlevel10k)
 - instala batcat (cat con esteroides)
 - instala colorls (ls con estilo)  
 
