@@ -18,11 +18,11 @@ Este script realiza las siguientes modificaciones
 #### Wallpaper  
 ![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/d8c164d8-e2f9-4b03-89d7-2df4e9affc0f)  
 #### Prompt  
-![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/955eba4f-13d9-47cc-b3e1-b48f0738618c)  
+
 #### Cat  
-![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/f160303f-1625-475f-9686-1056eaf9162f)  
+
 #### Ls  
-![image](https://github.com/glmbxecurity/Customkali_Automated/assets/137443771/27926f4a-a1fa-4d21-a8dc-0e57fea36dca)  
+ 
 
 
 
@@ -34,7 +34,11 @@ git clone --depth=1 https://github.com/glmbxecurity/Customkali_Automated.git /ho
 
 Ahora es tan sencillo como ejecutar el primer script ```install_parte1.sh``` e introducir la clave de administrador cuando sea necesario.  
 Ahora ejecutamnos ```install_parte2.sh```, e introducir la clave de administrador cuando sea necesario.  
-Una vez ejecutados ambos scripts, solo nos queda poner la terminal kitty como predeterminada. Para ello, nos vamos a ```Settings Manager > Default Applications```, y cambiamos el terminal que viene por defecto, por el terminal kitty.  
+Una vez ejecutados ambos scripts, solo nos queda  
+  
+* Ir a ```Settings Manager > Default Applications```, y cambiamos el terminal que viene por defecto, por el terminal kitty.
+* Ir a ```Appearance``` y cambiar las 2 fuentes que aparecen, por la de hacknerdfont (sino no aparecerá el icono de kali en el terminal)
+
   
 ## Extra
 Para personalizar los colores de la terminal, se pueden editar los ficheros /home/kali/.config/kitty/kitty.conf  
@@ -54,4 +58,5 @@ En p10k.zsh los parametros son los siguientes:
 #### Recursos
 [iconos](https://www.nerdfonts.com/cheat-sheet)
 **Sacar paleta de colores de powerlevel10k** ``` for i in {0..255}; do print -Pn “%K{$i} %k%F{$i}${(l:3::0:)i}%f “ ${${(M)$((i%6)):#3}:+$’\n’}; done ```
+
 
